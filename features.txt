@@ -1,0 +1,53 @@
+0	Type	Variable	Label
+1	    ROW		
+2	H	YEAR	Census year
+3	H	DATANUM	Data set number
+4	H	SERIAL	Household serial number
+5	H	HHWT	Household weight
+6	H	HHTYPE	Household Type
+7	H	REGION	Census region and division
+8	H	STATEFIP	State (FIPS code)
+9	H	COUNTY	County
+10	H	METRO	Metropolitan status
+11	H	CITY	City
+12	H	GQ	Group quarters status
+13	H	FRIDGE	Refrigerator
+14	H	PHONE	Telephone availability
+15	H	CINETHH	Access to internet
+16	H	CILAPTOP	Laptop, desktop, or notebook computer
+17	H	CISMRTPHN	Smartphone
+18	H	CITABLET	Tablet or other portable wireless computer
+19	H	CIHISPEED	Broadband (high speed) Internet service such as cable, fiber optic, or DSL service
+20	H	VEHICLES	Vehicles available
+21	P	PERNUM	Person number in sample unit
+22	P	PERWT	Person weight
+23	P	RELATE (general)	Relationship to household head [general version]
+24	P	RELATED (detailed)	Relationship to household head [detailed version]
+25	P	SEX	Sex
+26	P	AGE	Age
+27	P	BIRTHQTR	Quarter of birth
+28	P	MARST	Marital status
+29	P	BIRTHYR	Year of birth
+30	P	MARRNO	Times married
+31	P	MARRINYR	Married within the past year
+32	P	YRMARR	Year married
+33	P	DIVINYR	Divorced in the past year
+34	P	RACE (general)	Race [general version]
+35	P	RACED (detailed)	Race [detailed version]
+36	P	BPL (general)	Birthplace [general version]
+37	P	BPLD (detailed)	Birthplace [detailed version]
+38	P	ANCESTR1 (general)	Ancestry, first response [general version]
+39	P	ANCESTR1D (detailed)	Ancestry, first response [detailed version]
+40	P	ANCESTR2 (general)	Ancestry, second response [general version]
+41	P	ANCESTR2D (detailed)	Ancestry, second response [detailed version]
+42	P	CITIZEN	Citizenship status
+43	P	SCHOOL	School attendance
+44	P	INCTOT	Total personal income
+45	P	FTOTINC	Total family income
+46	P	INCWAGE	Wage and salary income
+47	P	INCSS	Social Security income
+48	P	INCWELFR	Welfare (public assistance) income
+49	P	INCRETIR	Retirement income
+50	P	POVERTY	Poverty status
+51	P	VETDISAB	VA service-connected disability rating
+52	P	DIFFREM	Cognitive difficulty
