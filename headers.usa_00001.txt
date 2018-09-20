@@ -1,4 +1,3 @@
-
 Type	Variable	Label
 H	YEAR	Census year
 H	DATANUM	Data set number

@@ -1,0 +1,54 @@
+Type	Variable	Label
+H	YEAR	Census year
+H	DATANUM	Data set number
+H	SERIAL	Household serial number
+H	HHWT	Household weight
+H	HHTYPE	Household Type
+H	REGION	Census region and division
+H	STATEFIP	State (FIPS code)
+H	COUNTY	County
+H	METRO	Metropolitan status
+H	CITY	City
+H	GQ	Group quarters status
+H	FRIDGE	Refrigerator
+H	PHONE	Telephone availability
+H	CINETHH	Access to internet
+H	CILAPTOP	Laptop, desktop, or notebook computer
+H	CISMRTPHN	Smartphone
+H	CITABLET	Tablet or other portable wireless computer
+H	CIHISPEED	Broadband (high speed) Internet service such as cable, fiber optic, or DSL service
+H	VEHICLES	Vehicles available
+P	PERNUM	Person number in sample unit
+P	PERWT	Person weight
+P	FAMSIZE	Number of own family members in household
+P	RELATE (general)	Relationship to household head [general version]
+P	RELATED (detailed)	Relationship to household head [detailed version]
+P	SEX	Sex
+P	AGE	Age
+P	BIRTHQTR	Quarter of birth
+P	MARST	Marital status
+P	BIRTHYR	Year of birth
+P	MARRNO	Times married
+P	MARRINYR	Married within the past year
+P	YRMARR	Year married
+P	DIVINYR	Divorced in the past year
+P	RACE (general)	Race [general version]
+P	RACED (detailed)	Race [detailed version]
+P	BPL (general)	Birthplace [general version]
+P	BPLD (detailed)	Birthplace [detailed version]
+P	ANCESTR1 (general)	Ancestry, first response [general version]
+P	ANCESTR1D (detailed)	Ancestry, first response [detailed version]
+P	ANCESTR2 (general)	Ancestry, second response [general version]
+P	ANCESTR2D (detailed)	Ancestry, second response [detailed version]
+P	CITIZEN	Citizenship status
+P	SCHOOL	School attendance
+P	INCTOT	Total personal income
+P	FTOTINC	Total family income
+P	INCWAGE	Wage and salary income
+P	INCSS	Social Security income
+P	INCWELFR	Welfare (public assistance) income
+P	INCRETIR	Retirement income
+P	INCEARN	Total personal earned income
+P	POVERTY	Poverty status
+P	VETDISAB	VA service-connected disability rating
+P	DIFFREM	Cognitive difficulty
