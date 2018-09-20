@@ -1,7 +1,8 @@
+# Creating Clustering examples from Census data
 
-## set d
+## create delta set
 
-## Create a 100 row sample set
+### Create a 100 row sample set
 
 #### create the header
 ```head -1 usa_00001.csv | awk -F',' 'BEGIN{OFS=",";} {print $7,$10,$24,$25,$43}'  > d100.csv```
@@ -16,5 +17,20 @@
 ```cat usa_00001.csv | awk -F',' 'BEGIN{OFS=",";} {print $7,$10,$24,$25,$43}'  > d.csv```
 
 
-##pandas 
+
+
+##  create echo set
+create header, and fill the file after shuffle
+``` 
+     head -1 usa_00002.csv | awk -F ',' 'BEGIN{OFS=",";} {print $7,$44,$22}' > e.csv
+     tail -n+2  usa_00002.csv | gshuf | awk -F ',' 'BEGIN{OFS=",";} {print $7,$44,$22}' >> e.csv
+```
+--
+
+
+
+# Reference
+
+## pandas 
+
 [read_csv](http://pandas.pydata.org/pandas-docs/stable/io.html)
