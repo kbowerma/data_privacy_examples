@@ -2,3 +2,5 @@ cache
 b.usa.csv
 usa_00001.csv
 usa_00002.csv
+.DS_Store
+echo.csv
