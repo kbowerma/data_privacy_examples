@@ -36,3 +36,8 @@ create header, and fill the file after shuffle
 [read_csv](http://pandas.pydata.org/pandas-docs/stable/io.html)
 
 Data collected from [usa.ipums.org](https://usa.ipums.org/usa/)
+
+_[CLUSTERING OF HOUSING AND HOUSEHOLD
+PATTERNS USING 2011 POPULATION CENSUS](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.831.8660&rep=rep1&type=pdf)_
+
+_[Clustering Data - NCRM EPrints Repository](http://eprints.ncrm.ac.uk/247/1/Vickers_ESRC_RM.ppt)
